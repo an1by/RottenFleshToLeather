@@ -1,6 +1,7 @@
 # Rotten flesh to leather
 This plugin allows smelting rotten flesh into leather.\
 Simply put rotten flesh into furnace. That's all.
+> ### Works ONLY on PaperMC
 
 ## config.yml
 ```yml
