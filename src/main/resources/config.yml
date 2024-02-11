@@ -1,0 +1,3 @@
+flesh_amount: 64 # Amount of flesh, needing to smelt (1 - 64)
+experience: 0.35 # Value of recipe's experience (float)
+cooking_time: 218 # Time of cooking (in ticks)
